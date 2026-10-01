@@ -1,0 +1,10 @@
+# 系统自动生成
+Thumbs.db
+Desktop.ini
+
+# VSCode 个人配置
+.vscode/
+
+# 临时文件 / 备份
+*.tmp
+*.bak
